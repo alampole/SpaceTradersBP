@@ -1,5 +1,6 @@
 # SpaceTradersBP
 Prototype for a Space Trading game.  
+Used to demonstrate various abilities with Unreal Engine 4 as well and using its tools, therefore some of the blueprints may not be as clean as needed.  
   
   Currently Implemented:  
     Interaction System, with UI  
@@ -9,6 +10,7 @@ Controls:
 WASD - Movement  
 Shift - Sprint  
 R - Reload  
+Left Click - Shoot  
   
 Debug Controls:  
 Up/Down Arrows: Add/Remove Health  
